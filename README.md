@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Steve</h1>
-<h3 align="center">I am a student of industrial engineering and I am also studying data science.</h3>
+<h3 align="center">I am an industrial engineering student and I am also studying data science on my own. .</h3>
+
+<p align="left"> <a href="https://twitter.com/zroystv" target="blank"><img src="https://img.shields.io/twitter/follow/zroystv?logo=twitter&style=for-the-badge" alt="zroystv" /></a> </p>
+
+- 🏫 I’m currently Study in **INSTITUTO POLITECNICO NACIONAL**
 
 - 🌱 I’m currently learning **Machine learning Models**
 
@@ -7,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@zroystv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@zroystv" height="30" width="40" /></a>
+<a href="https://twitter.com/zroystv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zroystv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-steve-carrillo-soriega-22451b260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodrigo-steve-carrillo-soriega-22451b260/" height="30" width="40" /></a>
 </p>
 
@@ -17,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zroys&show_icons=true&locale=en&layout=compact" alt="zroys" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zroys&show_icons=true&locale=en" alt="zroys" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zroys&" alt="zroys" /></p>
