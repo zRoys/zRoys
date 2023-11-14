@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Steve</h1>
+h<h1 align="center">Hi 👋, I'm Rodrigo Steve</h1>
 <h3 align="center">I am an industrial engineering student and I am also studying data science on my own. .</h3>
 
-<p align="left"> <a href="https://twitter.com/zroystv" target="blank"><img src="https://img.shields.io/twitter/follow/zroystv?logo=twitter&style=for-the-badge" alt="zroystv" /></a> </p>
 
-- 🏫 I’m currently Study in **INSTITUTO POLITECNICO NACIONAL**
-
-- 🌱 I’m currently learning **Machine learning Models**
+- 🏫 I’m currently Study in industrial engineering at INSTITUTO POLITECNICO NACIONAL,I like to learn about data science, data analysis, machine learning, AI and everything that has to do with data and AI, I am currently a student of 2 semester of industrial engineering and I am learning about data science, data analysis and AI, in my plans is to learn tools such as cloud management and Deep learning Models.
 
 - 📫 How to reach me **roysteve.nc@gmail.com**
 
