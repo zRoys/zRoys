@@ -1,4 +1,4 @@
-h<h1 align="center">Hi 👋, I'm Rodrigo Steve</h1>
+<h1 align="center">Hi 👋, I'm Rodrigo Steve</h1>
 
 
 - 🏫 I’m currently Study in industrial engineering at INSTITUTO POLITECNICO NACIONAL, I like to learn about data science, data analysis, machine learning, AI and everything that has to do with data and AI, I am currently a student of 2 semester of industrial engineering and I am learning about data science, data analysis and AI, in my plans is to learn tools such as cloud management and Deep learning Models.
