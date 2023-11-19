@@ -50,7 +50,7 @@
 
  ## 🛠️Soft Skills
   <div align="center">
-    <img src="https://img.shields.io/badge/Effective communication efectiva-31b923?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" alt="logo-responsabilidad">
+    <img src="https://img.shields.io/badge/Effective communication-31b923?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" alt="logo-responsabilidad">
     <img src="https://img.shields.io/badge/Teamwork-23b7b9?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" alt="logo-trabajo-presion">
     <img src="https://img.shields.io/badge/Problem solving-2325b9?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" alt="logo-tolerancia">
     <img src="https://img.shields.io/badge/Storytelling-c0c81e?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" alt="logo-comunicacion">
