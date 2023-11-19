@@ -40,11 +40,22 @@
 ### 💻language and tools🧑‍💻:
 
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+           
+          
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=10000&pause=1000&color=F7F7F7&background=FF430200&center=false&random=false&width=435&lines=%F0%9F%8F%86Github+Stats%F0%9F%8F%86" alt="Typing SVG" /></a>
 
 <p><img height="180" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zroys&show_icons=true&locale=en&layout=compact" alt="zroys" /></p>
 <p>&nbsp;<img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=zroys&show_icons=true&locale=en" alt="zroys" /></p>
 
+ ## 🛠️Soft Skills
+  <div align="center">
+    <img src="https://img.shields.io/badge/Effective communication efectiva-31b923?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" alt="logo-responsabilidad">
+    <img src="https://img.shields.io/badge/Teamwork-23b7b9?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" alt="logo-trabajo-presion">
+    <img src="https://img.shields.io/badge/Problem solving-2325b9?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" alt="logo-tolerancia">
+    <img src="https://img.shields.io/badge/Storytelling-c0c81e?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" alt="logo-comunicacion">
+    <img src="https://img.shields.io/badge/Adaptability-c81e1e?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" alt="logo-puntualidad">
+    <img src="https://img.shields.io/badge/Analytical thinking-C01CD3?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" alt="logo-puntualidad">
+  </div>
+</div>
 
