@@ -9,7 +9,7 @@
 
 ## 📚About me 
 
-- 🏫 I’m currently Study in industrial engineering at INSTITUTO POLITECNICO NACIONAL, I like to learn about data science, data analysis, machine learning, AI and everything that has to do with data and AI, I am currently a student of 2 semester of industrial engineering and I am learning about data science, data analysis and AI with courses of [Platzi](https://platzi.com/p/roysteve.nc/), in my plans is to learn tools such as cloud management and Deep learning Models.
+- 🏫 I’m currently Study in industrial engineering at INSTITUTO POLITECNICO NACIONAL, I like to learn about data science, data analysis, machine learning, AI and everything that has to do with data and AI, I am currently a student of industrial engineering and I am learning about data science, data analysis and AI with courses of [Platzi](https://platzi.com/p/roysteve.nc/), in my plans is to learn tools such as cloud management and Deep learning Models.
   
 - 📊 Data Analist Student
 - 🖥️ Data Scientist Student 
