@@ -9,6 +9,8 @@
 
 ## About me 
 
+- 🏫 I’m currently Study in industrial engineering at INSTITUTO POLITECNICO NACIONAL, I like to learn about data science, data analysis, machine learning, AI and everything that has to do with data and AI, I am currently a student of 2 semester of industrial engineering and I am learning about data science, data analysis and AI with courses of [Platzi](https://platzi.com/p/roysteve.nc/), in my plans is to learn tools such as cloud management and Deep learning Models.
+  
 - 📊 Data Analist Student
 - 🖥️ Data Scientist Student 
 - ✏️ University Student of [IPN-UPIICSA](https://www.upiicsa.ipn.mx/)
@@ -45,7 +47,4 @@
 <p><img height="180" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zroys&show_icons=true&locale=en&layout=compact" alt="zroys" /></p>
 <p>&nbsp;<img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=zroys&show_icons=true&locale=en" alt="zroys" /></p>
 
-## 🚀 My History
-
-- 🏫 I’m currently Study in industrial engineering at INSTITUTO POLITECNICO NACIONAL, I like to learn about data science, data analysis, machine learning, AI and everything that has to do with data and AI, I am currently a student of 2 semester of industrial engineering and I am learning about data science, data analysis and AI with courses of [Platzi](https://platzi.com/p/roysteve.nc/), in my plans is to learn tools such as cloud management and Deep learning Models.
 
