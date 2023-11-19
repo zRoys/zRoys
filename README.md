@@ -50,10 +50,10 @@
 
  ## 🛠️Soft Skills
   <div align="center">
-    <img src="https://img.shields.io/badge/Effective communication-31b923?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" alt="logo-responsabilidad">
+    <img src="https://img.shields.io/badge/Effective communication-15B23D?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" alt="logo-responsabilidad">
     <img src="https://img.shields.io/badge/Teamwork-23b7b9?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" alt="logo-trabajo-presion">
     <img src="https://img.shields.io/badge/Problem solving-2325b9?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" alt="logo-tolerancia">
-    <img src="https://img.shields.io/badge/Storytelling-c0c81e?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" alt="logo-comunicacion">
+    <img src="https://img.shields.io/badge/Storytelling-EAF32F?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" alt="logo-comunicacion">
     <img src="https://img.shields.io/badge/Adaptability-c81e1e?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" alt="logo-puntualidad">
     <img src="https://img.shields.io/badge/Analytical thinking-C01CD3?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" alt="logo-puntualidad">
   </div>
