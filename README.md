@@ -62,4 +62,4 @@
     <img src="https://img.shields.io/badge/Analytical thinking-C01CD3?style=for-the-badge&logo={LOGO-NAME}&logoColor=white" alt="logo-puntualidad">
   </div>
 </div>
-https://youtube.com/live/Hj3oI_rqizw
+
