@@ -11,7 +11,7 @@
 
 -Web Portfolio: https://profileroy.netlify.app/
 
-- 🏫Aspiring Data Analyst with a background in Industrial Engineering and a strong passion for turning data into actionable insights. I specialize in data visualization, process optimization, and decision.
+🏫Aspiring Data Analyst with a background in Industrial Engineering and a strong passion for turning data into actionable insights. I specialize in data visualization, process optimization, and decision.
 
 My academic foundation has equipped me with analytical thinking and a solid understanding of process improvement, while my hands-on projects have allowed me to build dashboards, clean and transform datasets, and communicate insights clearly to both technical and non-technical stakeholders.
 
@@ -28,10 +28,8 @@ Automation and reporting for operational efficiency
 I’m also currently expanding my expertise in cloud services (Azure) and machine learning fundamentals.
 As a complement to my data journey, I’ve gained theoretical knowledge of enterprise systems as a SAP Technology Consultant trainee, which gives me an understanding of how data flows across business operations.
 
-- 📊 Data Analist Student
-- 🖥️ Data Scientist Student 
-- ✏️ University Student of [IPN-UPIICSA](https://www.upiicsa.ipn.mx/)
-- 📗 Industrial Engineering Student of UPIICSA
+- 📊 Data Analist, Data ScientistStudent
+- 📗 Industrial Engineering Student of [IPN-UPIICSA](https://www.upiicsa.ipn.mx/)
 - 🌎I live in CDMX
 - 📫 How to reach me **roysteve.nc@gmail.com**
 
