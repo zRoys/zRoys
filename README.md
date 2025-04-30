@@ -28,7 +28,7 @@ Automation and reporting for operational efficiency
 I’m also currently expanding my expertise in cloud services (Azure) and machine learning fundamentals.
 As a complement to my data journey, I’ve gained theoretical knowledge of enterprise systems as a SAP Technology Consultant trainee, which gives me an understanding of how data flows across business operations.
 
-- 📊 Data Analist, Data ScientistStudent
+- 📊 Data Analist, Data Scientist Student
 - 📗 Industrial Engineering Student of [IPN-UPIICSA](https://www.upiicsa.ipn.mx/)
 - 🌎I live in CDMX
 - 📫 How to reach me **roysteve.nc@gmail.com**
