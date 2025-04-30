@@ -9,8 +9,25 @@
 
 ## 📚About me 
 
-- 🏫 I’m currently Study in industrial engineering at INSTITUTO POLITECNICO NACIONAL, I like to learn about data science, data analysis, machine learning, AI and everything that has to do with data and AI, I am currently a student of industrial engineering and I am learning about data science, data analysis and AI with courses of [Platzi](https://platzi.com/p/roysteve.nc/), in my plans is to learn tools such as cloud management, libraries of python such as pytorch and tensorflow for Deep learning and Machine learning Models.
-  
+-Web Portfolio: https://profileroy.netlify.app/
+
+- 🏫Aspiring Data Analyst with a background in Industrial Engineering and a strong passion for turning data into actionable insights. I specialize in data visualization, process optimization, and decision.
+
+My academic foundation has equipped me with analytical thinking and a solid understanding of process improvement, while my hands-on projects have allowed me to build dashboards, clean and transform datasets, and communicate insights clearly to both technical and non-technical stakeholders.
+
+I’m particularly skilled in:
+
+Data cleaning and transformation
+
+Dashboard creation and data storytelling
+
+Statistical analysis and problem-solving
+
+Automation and reporting for operational efficiency
+
+I’m also currently expanding my expertise in cloud services (Azure) and machine learning fundamentals.
+As a complement to my data journey, I’ve gained theoretical knowledge of enterprise systems as a SAP Technology Consultant trainee, which gives me an understanding of how data flows across business operations.
+
 - 📊 Data Analist Student
 - 🖥️ Data Scientist Student 
 - ✏️ University Student of [IPN-UPIICSA](https://www.upiicsa.ipn.mx/)
