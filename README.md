@@ -11,22 +11,40 @@
 
 -Web Portfolio: https://profileroy.netlify.app/
 
-🏫Aspiring Data Analyst with a background in Industrial Engineering and a strong passion for turning data into actionable insights. I specialize in data visualization, process optimization, and decision.
+Data Analyst | Data Scientist | AI/ML Engeniering 
 
-My academic foundation has equipped me with analytical thinking and a solid understanding of process improvement, while my hands-on projects have allowed me to build dashboards, clean and transform datasets, and communicate insights clearly to both technical and non-technical stakeholders.
+Passionate about transforming complex datasets into actionable insights and building intelligent solutions that drive smarter decisions. I specialize in data visualization, process optimization, automation, and machine learning applications, using tools such as:
 
-I’m particularly skilled in:
+Power BI, Tableau, Excel
 
-Data cleaning and transformation
+Python (Pandas, NumPy, Seaborn, Matplotlib)
 
-Dashboard creation and data storytelling
+SQL
 
-Statistical analysis and problem-solving
+Workflow automation (n8n, Power Automate)
 
-Automation and reporting for operational efficiency
+REST APIs integration & deployment
 
-I’m also currently expanding my expertise in cloud services (Azure) and machine learning fundamentals.
-As a complement to my data journey, I’ve gained theoretical knowledge of enterprise systems as a SAP Technology Consultant trainee, which gives me an understanding of how data flows across business operations.
+
+Through hands-on projects, I’ve built interactive dashboards, cleaned and transformed raw data, automated workflows, integrated APIs, and communicated findings clearly to both technical and non-technical audiences.
+
+🔹 Key strengths:
+
+Data cleaning, preparation, and transformation
+
+Dashboard creation & data storytelling
+
+Statistical analysis & problem-solving
+
+Workflow automation & reporting for efficiency
+
+Designing ML models for predictions and clustering
+
+Building AI agents and exposing ML models through APIs with UI integration
+
+
+I bring a growing knowledge of machine learning fundamentals, cloud concepts, and AI solutions, with the ability to turn models into real, usable applications.
+Additionally, my background as a SAP Technology Consultant trainee has given me a strong understanding of how data flows across enterprise systems and business operations.
 
 - 📊 Data Analist, Data Scientist 
 - 📗 Industrial Engineering Student of [IPN-UPIICSA](https://www.upiicsa.ipn.mx/)
