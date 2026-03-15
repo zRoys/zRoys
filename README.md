@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<h2 align="center">DataOps Governance Engineer | AI & Data Enthusiast</h2>
+<h2 align="center">DataOps Engineer | AI & Data Enthusiast</h2>
 
 <div align="center">
   <a href="https://profileroy.netlify.app/" target="_blank">🌐 Web Portfolio</a> | 
